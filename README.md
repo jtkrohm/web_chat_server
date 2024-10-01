@@ -1,7 +1,6 @@
 # Web Chat Server
 
-- written in python 
-- based on [this youtube tutorial]
+- Deprecated 
 
 
 ```markdown
